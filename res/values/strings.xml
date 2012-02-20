@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ApiDemos!</string>
+    <string name="app_name">GradeBook</string>
+    <string name="class_name">CS162 \n Grade: 83%</string>
+    <string name="class_name_without_grade">CS162 \n Grade: 0%</string>
+    <string name="new_score">Test1 \n Grade: 83%</string>
+    
+</resources>

@@ -1,0 +1,9 @@
+
+    <EditText
+    android.singleLine="true"
+     android:hint="Type"
+      android:id="@+id/editText1"
+       android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         xmlns:android="http://schemas.android.com/apk/res/android">
+         </EditText>
